@@ -26,26 +26,26 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+Annie+%F0%9F%8E%B6+The+Robot;Your+Ultimate+Telegram+Music+Bot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+Veron+%F0%9F%8E%B6+The+Robot;Your+Ultimate+Telegram+Music+Bot" />
 </h1>
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders">
+  <a href="https://t.me/medevu">
     <img src="https://files.catbox.moe/eh780q.jpg" width="600">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/AnnieXRobot"><img src="https://img.shields.io/badge/Try%20Bot-@AnnieXRobot-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/VERONxMUSIC_BOT"><img src="https://img.shields.io/badge/Try%20Bot-@VERONxMUSIC_BOT-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/stargazers"><img src="https://img.shields.io/github/stars/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/network/members"><img src="https://img.shields.io/github/forks/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/issues"><img src="https://img.shields.io/github/issues/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/commits/main"><img src="https://img.shields.io/github/last-commit/CertifiedDevloper/AnnieXMusic?style=flat-square"/></a>
-  <a href="https://github.com/CertifiedDevloper/AnnieXMusic/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
+  <a href="https://github.com/netizen-0/VERONXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/netizen-0/VERONXMUSIC?style=flat-square"/></a>
+  <a href="https://github.com/netizen-0/VERONXMUSIC/network/members"><img src="https://img.shields.io/github/forks/netizen-0/VERONXMUSIC?style=flat-square"/></a>
+  <a href="https://github.com/netizen-0/VERONXMUSIC/issues"><img src="https://img.shields.io/github/issues/netizen-0/VERONXMUSIC?style=flat-square"/></a>
+  <a href="https://github.com/netizen-0/VERONXMUSIC/commits/main"><img src="https://img.shields.io/github/last-commit/netizen-0/VERONXMUSIC?style=flat-square"/></a>
+  <a href="https://github.com/netizen-0/VERONXMUSIC/actions"><img src="https://img.shields.io/badge/CI-Status-grey?style=flat-square"/></a>
 </p>
 
 ## 🌟 What is AnnieXMusic?
@@ -207,7 +207,7 @@ sudo apt install -y nodejs
 npm install -g npm
 
 ### Step 2: Clone Repo
-git clone https://github.com/CertifiedDevloper/AnnieXMusic
+git clone https://github.com/netizen-0/VERONXMUSIC
 cd AnnieXMusic
 tmux new -s Annie
 
@@ -239,7 +239,7 @@ rm -rf AnnieXMusic  # Uninstall the repo
 
 ```bash
 ### Step 1: Clone Repo
-git clone https://github.com/CertifiedDevloper/AnnieXMusic
+git clone https://github.com/netizen-0/VERONXMUSIC
 cd AnnieXMusic
 
 ### Step 2: Create .env File
@@ -279,13 +279,13 @@ docker rmi anniexmusic      # Remove image
 ## 💬 Community & Support
 
 <p align="center">
-  <a href="https://t.me/CertifiedCoders">
+  <a href="https://t.me/medevu">
     <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/CertifiedCodes">
+  <a href="https://t.me/medevu">
     <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/CertifiedCoder">
+  <a href="https://t.me/medevu">
     <img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@rajnisha3">
