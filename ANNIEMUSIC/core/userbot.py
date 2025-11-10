@@ -8,11 +8,12 @@ assistants = []
 assistantids = []
 
 GROUPS_TO_JOIN = [
-    "CertifiedDiscussion",
-    "CertifiedCoders",
-    "CertifiedCodes",
-    "CertifiedDevs",
-    "CertifiedNetwork",
+    "Veron_movies",
+    "VERONxNETWORK",
+    "Veron_bots",
+    "VERON_BANS",
+    "Matlabi_Duniyah",
+    "VERON_SUPPORTS",
 ]
 
 
