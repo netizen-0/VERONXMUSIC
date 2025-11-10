@@ -22,7 +22,7 @@
 <!-- 👁 Visitor Counter -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CertifiedDevloper&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DevaCorder&style=flat-square" />
 </p>
 
 <h1 align="center">
