@@ -20,7 +20,7 @@ async def show_repo(_, msg):
     buttons = [
         [InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✨", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
         [
-            InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="https://t.me/VERONCODER"),
+            InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="https://t.me/coderdeva"),
             InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/VERON_SUPPORTS")
         ],
         [
