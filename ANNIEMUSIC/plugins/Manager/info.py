@@ -26,7 +26,6 @@ def get_last_seen(status):
     }.get(status, "❓ ᴜɴᴋɴᴏᴡɴ")
 
 
-@app.on_message(filters.command(["info", "userinfo", "whois"]))
 async def whois_handler(_, message: Message):
     try:
         if message.reply_to_message:
@@ -57,6 +56,7 @@ async def whois_handler(_, message: Message):
             f"➣ <b>ʟᴀsᴛ sᴇᴇɴ:</b> {last_seen}\n"
             f"➣ <b>ᴅᴀᴛᴀᴄᴇɴᴛᴇʀ ɪᴅ:</b> {dc_id}\n"
             f"➣ <b>ʟᴀɴɢᴜᴀɢᴇ:</b> {lang}\n"
+@app.on_message(filters.command(["info", "userinfo", "whois"]))
             f"━━━━━━━━━━━━━━━\n"
             f"➣ <b>ᴠᴇʀɪғɪᴇᴅ:</b> {'ʏᴇs ✅' if user.is_verified else 'ɴᴏ 🥀'}\n"
             f"➣ <b>ᴘʀᴇᴍɪᴜᴍ:</b> {'ʏᴇs ☑️' if user.is_premium else 'ɴᴏ 🥀'}\n"
